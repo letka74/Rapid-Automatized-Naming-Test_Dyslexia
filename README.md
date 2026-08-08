@@ -1,2 +1,20 @@
-# Rapid-Automatized-Naming-Test_Dyslexia
-(RAN) task is a neuropsycholinguistic measure designed to assess the ability to rapidly and accurately name a series of familiar visual stimuli presented in a structured array.is requires rapid coordination of several cognitive processes, including visual identification, access to lexical representations, phonological retrieval, and articulation.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/4891f251-1547-4752-aefa-8d3ac778e31d
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

@@ -1,0 +1,6 @@
+{
+  "name": "بصيرة | علاج عسر القراءة الدلالي",
+  "description": "تطبيق إلكتروني تنفيذي وعلاجي متكامل لعلاج عسر القراءة في المستوى الدلالي عبر 6 جزر تفاعلية تشمل 120 تمريناً مخصصاً مع مساعد ذكاء اصطناعي وأدوات تيسيرية.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
